@@ -9,3 +9,7 @@ Mer info här: https://borslabbet.se/sammansatt-momentum/
 Dan kör 16 aktier, minst 4 branscher, ev max 50% i en branch. Var tredje månad väljs aktierna om. 
 ### Stefans version
 1 aktie som går till 1000% om och om igen ;) 
+## DualMomentum
+DualMomentum eller global trendföljning tittar på icke-korrelerade branscher och väljer de som går bäst just nu. Se mer här https://github.com/dacre/StockChecker
+### Johannes version
+Utgår strikt från faktiska fonders tillväxt senaste 3, 6 och 12 månader och med glidande medelvärde som avgörande faktor om flera fonder har samma.
